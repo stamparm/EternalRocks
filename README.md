@@ -1,5 +1,11 @@
 # EternalRocks
 
+## Host Based indicators
+
+### Mutexes
+
+`{8F6F00C4-B901-45fd-08CF-72FDEFF}`
+
 ## Samples
 
 ### First stage
