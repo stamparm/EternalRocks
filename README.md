@@ -2,6 +2,10 @@
 
 ## Host Based indicators
 
+### Paths
+
+`c:\Program Files\Microsoft Updates`  `# Hardcoded inside UpdateInstaller.exe`
+
 ### Mutexes
 
 `{8F6F00C4-B901-45fd-08CF-72FDEFF}`
