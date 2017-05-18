@@ -12,61 +12,61 @@ Second stage malware (bigger than first stage) `taskhost.exe` (e.g. [sample](htt
 
 * `c:\Program Files\Microsoft Updates\SharpZLib.zip`
 
-* `c:\Program Files\Microsoft Updates\svchost.exe
+* `c:\Program Files\Microsoft Updates\svchost.exe`
 
-* `c:\Program Files\Microsoft Updates\Microsoft.Win32.TaskScheduler.dll
+* `c:\Program Files\Microsoft Updates\Microsoft.Win32.TaskScheduler.dll`
 
-* `c:\Program Files\Microsoft Updates\SharpZLib\_rels\.rels
+* `c:\Program Files\Microsoft Updates\SharpZLib\_rels\.rels`
 
-* `c:\Program Files\Microsoft Updates\SharpZLib\[Content_Types].xml
+* `c:\Program Files\Microsoft Updates\SharpZLib\[Content_Types].xml`
 
-* `c:\Program Files\Microsoft Updates\SharpZLib\lib\20\ICSharpCode.SharpZipLib.dll
+* `c:\Program Files\Microsoft Updates\SharpZLib\lib\20\ICSharpCode.SharpZipLib.dll`
 
-* `c:\Program Files\Microsoft Updates\SharpZLib\lib\SL4\SharpZipLib.Silverlight4.dll
+* `c:\Program Files\Microsoft Updates\SharpZLib\lib\SL4\SharpZipLib.Silverlight4.dll`
 
-* `c:\Program Files\Microsoft Updates\SharpZLib\lib\11\ICSharpCode.SharpZipLib.dll
+* `c:\Program Files\Microsoft Updates\SharpZLib\lib\11\ICSharpCode.SharpZipLib.dll`
 
-* `c:\Program Files\Microsoft Updates\SharpZLib\lib\SL3\SharpZipLib.Silverlight3.dll
+* `c:\Program Files\Microsoft Updates\SharpZLib\lib\SL3\SharpZipLib.Silverlight3.dll`
 
-* `c:\Program Files\Microsoft Updates\SharpZLib\package\services\metadata\core-properties\e83d3d4df9744968925840934872efc3.psmdcp
+* `c:\Program Files\Microsoft Updates\SharpZLib\package\services\metadata\core-properties\e83d3d4df9744968925840934872efc3.psmdcp`
 
-* `c:\Program Files\Microsoft Updates\SharpZLib\SharpZipLib.nuspec
+* `c:\Program Files\Microsoft Updates\SharpZLib\SharpZipLib.nuspec`
 
-* `c:\Program Files\Microsoft Updates\temp\tor.zip
+* `c:\Program Files\Microsoft Updates\temp\tor.zip`
 
-* `c:\Program Files\Microsoft Updates\temp\Tor\Data\Tor\geoip
+* `c:\Program Files\Microsoft Updates\temp\Tor\Data\Tor\geoip`
 
-* `c:\Program Files\Microsoft Updates\temp\Tor\Data\Tor\geoip6
+* `c:\Program Files\Microsoft Updates\temp\Tor\Data\Tor\geoip6`
 
-* `c:\Program Files\Microsoft Updates\temp\Tor\Tor\zlib1.dll
+* `c:\Program Files\Microsoft Updates\temp\Tor\Tor\zlib1.dll`
 
-* `c:\Program Files\Microsoft Updates\temp\Tor\Tor\libssp-0.dll
+* `c:\Program Files\Microsoft Updates\temp\Tor\Tor\libssp-0.dll`
 
-* `c:\Program Files\Microsoft Updates\temp\Tor\Tor\libeay32.dll
+* `c:\Program Files\Microsoft Updates\temp\Tor\Tor\libeay32.dll`
 
-* `c:\Program Files\Microsoft Updates\temp\Tor\Tor\tor.exe
+* `c:\Program Files\Microsoft Updates\temp\Tor\Tor\tor.exe`
 
-* `c:\Program Files\Microsoft Updates\temp\Tor\Tor\ssleay32.dll
+* `c:\Program Files\Microsoft Updates\temp\Tor\Tor\ssleay32.dll`
 
-* `c:\Program Files\Microsoft Updates\temp\Tor\Tor\libevent_extra-2-0-5.dll
+* `c:\Program Files\Microsoft Updates\temp\Tor\Tor\libevent_extra-2-0-5.dll`
 
-* `c:\Program Files\Microsoft Updates\temp\Tor\Tor\libgcc_s_sjlj-1.dll
+* `c:\Program Files\Microsoft Updates\temp\Tor\Tor\libgcc_s_sjlj-1.dll`
 
-* `c:\Program Files\Microsoft Updates\temp\Tor\Tor\libevent-2-0-5.dll
+* `c:\Program Files\Microsoft Updates\temp\Tor\Tor\libevent-2-0-5.dll`
 
-* `c:\Program Files\Microsoft Updates\temp\Tor\Tor\libevent_core-2-0-5.dll
+* `c:\Program Files\Microsoft Updates\temp\Tor\Tor\libevent_core-2-0-5.dll`
 
-* `c:\Program Files\Microsoft Updates\required.glo
+* `c:\Program Files\Microsoft Updates\required.glo`
 
-* `c:\Program Files\Microsoft Updates\taskhost.exe
+* `c:\Program Files\Microsoft Updates\taskhost.exe`
 
-* `c:\Program Files\Microsoft Updates\TaskScheduler.zip
+* `c:\Program Files\Microsoft Updates\TaskScheduler.zip`
 
-* `c:\Program Files\Microsoft Updates\TaskScheduler\_rels\.rels
+* `c:\Program Files\Microsoft Updates\TaskScheduler\_rels\.rels`
 
-* `c:\Program Files\Microsoft Updates\TaskScheduler\TaskScheduler.nuspec
+* `c:\Program Files\Microsoft Updates\TaskScheduler\TaskScheduler.nuspec`
 
-* `c:\Program Files\Microsoft Updates\TaskScheduler\[Content_Types].xml
+* `c:\Program Files\Microsoft Updates\TaskScheduler\[Content_Types].xml`
 
 * `c:\Program Files\Microsoft Updates\TaskScheduler\lib\net20\`
 
