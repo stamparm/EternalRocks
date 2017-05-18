@@ -54,4 +54,4 @@ Second stage malware (bigger than first stage) `taskhost.exe` (e.g. [sample](htt
 
 ### Network traffic capture (PCAP)
 
-* [exploitation.pcap](https://raw.githubusercontent.com/stamparm/EternalRocks/master/misc/exploitation.pcap)
+* [Windows 7 x64 SP1 Honeypot](https://raw.githubusercontent.com/stamparm/EternalRocks/master/misc/exploitation.pcap)
