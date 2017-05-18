@@ -4,7 +4,7 @@
 
 ### Paths
 
-`c:\Program Files\Microsoft Updates`  `# Hardcoded inside UpdateInstaller.exe`
+`c:\Program Files\Microsoft Updates`
 
 `c:\Program Files\Microsoft Updates\TaskScheduler.zip`
 
@@ -12,8 +12,7 @@
 
 `c:\Program Files\Microsoft Updates\SharpZLib.zip`
 
-
-`Ic:\Program Files\Microsoft Updates\CSharpCode.SharpZipLib.dll`
+`c:\Program Files\Microsoft Updates\CSharpCode.SharpZipLib.dll`
 
 ### Mutexes
 
@@ -25,12 +24,12 @@
 
 ### First stage
 
+[e049d8f69ddee0c2d360c27b98fa9e61b7202bb0d3884dd3ca63f8aa288422dc](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/e049d8f69ddee0c2d360c27b98fa9e61b7202bb0d3884dd3ca63f8aa288422dc)  `# UpdateInstaller.exe (variant)`
 [64442cceb7d618e70c62d461cfaafdb8e653b8d98ac4765a6b3d8fd1ea3bce15](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/64442cceb7d618e70c62d461cfaafdb8e653b8d98ac4765a6b3d8fd1ea3bce15)  `# UpdateInstaller.exe (variant)`
 [94189147ba9749fd0f184fe94b345b7385348361480360a59f12adf477f61c97](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/94189147ba9749fd0f184fe94b345b7385348361480360a59f12adf477f61c97)  `# UpdateInstaller.exe (variant)`
 [9bd32162e0a50f8661fd19e3b26ff65868ab5ea636916bd54c244b0148bd9c1b](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/9bd32162e0a50f8661fd19e3b26ff65868ab5ea636916bd54c244b0148bd9c1b)  `# UpdateInstaller.exe (variant)`
 [a7c387b4929f51e38706d8b0f8641e032253b07bc2869a450dfa3df5663d7392](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/a7c387b4929f51e38706d8b0f8641e032253b07bc2869a450dfa3df5663d7392)  `# UpdateInstaller.exe (variant)`
 [ad8965e531424cb34120bf0c1b4b98d4ab769bed534d9a36583364e9572332fa](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/ad8965e531424cb34120bf0c1b4b98d4ab769bed534d9a36583364e9572332fa)  `# UpdateInstaller.exe (variant)`
-[e049d8f69ddee0c2d360c27b98fa9e61b7202bb0d3884dd3ca63f8aa288422dc](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/e049d8f69ddee0c2d360c27b98fa9e61b7202bb0d3884dd3ca63f8aa288422dc)  `# UpdateInstaller.exe (variant)`
 
 
 ### Second stage
@@ -44,3 +43,9 @@
 ### C&C servers
 
 `ubgdgno5eswkhmpy.onion`
+
+## Appendix A
+
+### Network traffic capture (PCAP)
+
+[exploitation.pcap](https://raw.githubusercontent.com/stamparm/EternalRocks/master/misc/exploitation.pcap)
