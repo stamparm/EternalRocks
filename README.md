@@ -82,6 +82,12 @@ Second stage malware (bigger than first stage) `taskhost.exe` (e.g. [sample](htt
 
 * `c:\Program Files\Microsoft Updates\ICSharpCode.SharpZipLib.dll`
 
+### Persistence
+
+* Two scheduled tasks `ServiceHost` and `TaskHost` having multiple triggers
+
+![Scheduled tasks](https://i.imgur.com/3G7PgRQ.png)
+
 ### Mutexes
 
 * `{8F6F00C4-B901-45fd-08CF-72FDEFF}`
