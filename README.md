@@ -8,6 +8,8 @@ Second stage malware (bigger than first stage) `taskhost.exe` (e.g. [sample](htt
 
 ## Host Based indicators
 
+![Dropped files](http://i.imgur.com/LoP210P.png)
+
 ### Paths
 
 * `c:\Program Files\Microsoft Updates\SharpZLib.zip`
@@ -117,6 +119,8 @@ Second stage malware (bigger than first stage) `taskhost.exe` (e.g. [sample](htt
 ### C&C servers
 
 * `ubgdgno5eswkhmpy.onion`
+
+![Example C&C communication](https://i.imgur.com/Uyqw5an.png)
 
 ## Appendix A
 
