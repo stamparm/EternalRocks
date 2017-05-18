@@ -9,6 +9,7 @@
 ### Mutexes
 
 `{8F6F00C4-B901-45fd-08CF-72FDEFF}`
+`Global\20b70e57-1c2e-4de9-99e5-69f369006912`
 
 ## Samples
 
