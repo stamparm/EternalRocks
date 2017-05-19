@@ -94,6 +94,8 @@ Second stage malware `taskhost.exe` (Note: different than one from first stage) 
 
 ### Debug strings
 
+* `C:\Program Files (x86)\Microsoft Visual Studio\VB98\VB6.OLB`
+
 * `C:\Users\tmc\Documents\DownLoader\Project1.vbp`
 
 * `C:\Users\tmc\Documents\TorUnzip\Project1.vbp`
