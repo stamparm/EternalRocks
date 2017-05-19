@@ -18,6 +18,10 @@ Second stage malware `taskhost.exe` (Note: different than one from first stage) 
 
 * `c:\Program Files\Microsoft Updates\svchost.exe`
 
+* `c:\Program Files\Microsoft Updates\installed.fgh`
+
+* `c:\Program Files\Microsoft Updates\ICSharpCode.SharpZipLib.dll`
+
 * `c:\Program Files\Microsoft Updates\Microsoft.Win32.TaskScheduler.dll`
 
 * `c:\Program Files\Microsoft Updates\SharpZLib\_rels\.rels`
@@ -82,9 +86,7 @@ Second stage malware `taskhost.exe` (Note: different than one from first stage) 
 
 * `c:\Program Files\Microsoft Updates\TaskScheduler\package\services\metadata\core-properties\b413d53c92364baa9958fdda02cd8e9a.psmdcp`
 
-* `c:\Program Files\Microsoft Updates\installed.fgh`
-
-* `c:\Program Files\Microsoft Updates\ICSharpCode.SharpZipLib.dll`
+* `c:\Program Files\Microsoft Updates\torunzip.exe`  `# in older variants`
 
 ### Persistence
 
