@@ -133,3 +133,9 @@ Second stage malware `taskhost.exe` (Note: different than one from first stage) 
 ### Network traffic capture (PCAP)
 
 * [Windows 7 x64 SP1 Honeypot](https://raw.githubusercontent.com/stamparm/EternalRocks/master/misc/exploitation.pcap)  `# initial infection (2017-05-17)`
+
+### Debug strings
+
+* `c:\Users\tmc\Documents\Visual Studio 2015\Projects\MicroBotMassiveNet\taskhost\obj\x86\Debug\taskhost.pdb`
+
+* `C:\Users\tmc\Documents\Visual Studio 2015\Projects\WindowsServices\svchost\bin\svchost.pdb`
