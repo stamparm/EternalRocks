@@ -136,6 +136,10 @@ Second stage malware `taskhost.exe` (Note: different than one from first stage) 
 
 ### Debug strings
 
+* `C:\Users\tmc\Documents\DownLoader\Project1.vbp`
+
+* `C:\Users\tmc\Documents\TorUnzip\Project1.vbp`
+
 * `c:\Users\tmc\Documents\Visual Studio 2015\Projects\MicroBotMassiveNet\taskhost\obj\x86\Debug\taskhost.pdb`
 
 * `C:\Users\tmc\Documents\Visual Studio 2015\Projects\WindowsServices\svchost\bin\svchost.pdb`
