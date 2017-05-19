@@ -111,8 +111,8 @@ Second stage malware `taskhost.exe` (Note: different than one from first stage) 
 * [a7c387b4929f51e38706d8b0f8641e032253b07bc2869a450dfa3df5663d7392](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/a7c387b4929f51e38706d8b0f8641e032253b07bc2869a450dfa3df5663d7392)  `# UpdateInstaller.exe (variant)`
 * [ad8965e531424cb34120bf0c1b4b98d4ab769bed534d9a36583364e9572332fa](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/ad8965e531424cb34120bf0c1b4b98d4ab769bed534d9a36583364e9572332fa)  `# UpdateInstaller.exe (variant)`
 * [b2ca4093b2e0271cb7a3230118843fccc094e0160a0968994ed9f10c8702d867](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/b2ca4093b2e0271cb7a3230118843fccc094e0160a0968994ed9f10c8702d867)  `# UpdateInstaller.exe (variant)`
-* [d86af736644e20e62807f03c49f4d0ad7de9cbd0723049f34ec79f8c7308fdd5](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/d86af736644e20e62807f03c49f4d0ad7de9cbd0723049f34ec79f8c7308fdd5)  `# UpdateInstaller.exe (variant - broken)`
-* [e049d8f69ddee0c2d360c27b98fa9e61b7202bb0d3884dd3ca63f8aa288422dc](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/e049d8f69ddee0c2d360c27b98fa9e61b7202bb0d3884dd3ca63f8aa288422dc)  `# UpdateInstaller.exe (variant - broken)`
+* [d86af736644e20e62807f03c49f4d0ad7de9cbd0723049f34ec79f8c7308fdd5](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/d86af736644e20e62807f03c49f4d0ad7de9cbd0723049f34ec79f8c7308fdd5)  `# UpdateInstaller.exe (broken)`
+* [e049d8f69ddee0c2d360c27b98fa9e61b7202bb0d3884dd3ca63f8aa288422dc](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/e049d8f69ddee0c2d360c27b98fa9e61b7202bb0d3884dd3ca63f8aa288422dc)  `# UpdateInstaller.exe (broken)`
 
 ### Second stage
 
