@@ -14,17 +14,17 @@ Second stage malware `taskhost.exe` (Note: different than one from first stage) 
 
 ### Paths
 
-* `c:\Program Files\Microsoft Updates\SharpZLib.zip`
+* `c:\Program Files\Microsoft Updates\SharpZLib.zip`  `# in newer variants`
 
 * `c:\Program Files\Microsoft Updates\svchost.exe`
 
 * `c:\Program Files\Microsoft Updates\installed.fgh`
 
-* `c:\Program Files\Microsoft Updates\ICSharpCode.SharpZipLib.dll`
+* `c:\Program Files\Microsoft Updates\ICSharpCode.SharpZipLib.dll`  `# in newer variants`
 
 * `c:\Program Files\Microsoft Updates\Microsoft.Win32.TaskScheduler.dll`
 
-* `c:\Program Files\Microsoft Updates\SharpZLib\`
+* `c:\Program Files\Microsoft Updates\SharpZLib\`  `# in newer variants`
 
 * `c:\Program Files\Microsoft Updates\temp\tor.zip`
 
