@@ -136,6 +136,10 @@ e77306d2e3d656fa04856f658885803243aef204760889ca2c09fbe9ba36581d
 fc75410aa8f76154f5ae8fe035b9a13c76f6e132077346101a0d673ed9f3a0dd
 ```
 
+#### Imphash
+
+`8ef751c540fdc6962ddc6799f35a907c`  `# older (VB6) variants of UpdateInstaller.exe`
+
 #### Mutexes
 
 ```
