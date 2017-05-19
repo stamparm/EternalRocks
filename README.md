@@ -125,12 +125,12 @@ Second stage malware `taskhost.exe` (Note: different than one from first stage) 
 
 * `ubgdgno5eswkhmpy.onion`
 
-### Downloading required .NET components
+![Example C&C communication](https://i.imgur.com/Uyqw5an.png)
+
+### Downloading required .NET components (first stage)
 
 * `http://api.nuget.org/packages/taskscheduler.2.5.23.nupkg`
 * `http://api.nuget.org/packages/sharpziplib.0.86.0.nupkg`  `# not in all variants`
-
-![Example C&C communication](https://i.imgur.com/Uyqw5an.png)
 
 ## Appendix
 
