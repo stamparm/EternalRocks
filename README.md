@@ -96,6 +96,8 @@ Second stage malware `taskhost.exe` (Note: different than one from first stage) 
 
 * `{8F6F00C4-B901-45fd-08CF-72FDEFF}`
 
+* `{8F6F0AC4-B9A1-45fd-A8CF-72FDEFF}`
+
 * `Global\20b70e57-1c2e-4de9-99e5-69f369006912`
 
 ## Samples
