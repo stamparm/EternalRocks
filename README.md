@@ -152,6 +152,8 @@ Second stage malware `taskhost.exe` (Note: different than one from first stage) 
 
 ### Indicators of Compromise (IOC)
 
+#### SHA256
+
 ```
 23eeb35780faf868a7b17b8e8da364d71bae0e46c1ababddddddecbdbd2c2c64
 589af04a85dc66ec6b94123142a17cf194decd61f5d79e76183db026010e0d31
@@ -171,4 +173,18 @@ d43c10a2c983049d4a32487ab1e8fe7727646052228554e0112f6651f4833d2c
 d86af736644e20e62807f03c49f4d0ad7de9cbd0723049f34ec79f8c7308fdd5
 e049d8f69ddee0c2d360c27b98fa9e61b7202bb0d3884dd3ca63f8aa288422dc
 e77306d2e3d656fa04856f658885803243aef204760889ca2c09fbe9ba36581d
+```
+
+#### Mutexes
+
+```
+{8F6F00C4-B901-45fd-08CF-72FDEFF}
+{8F6F0AC4-B9A1-45fd-A8CF-72FDEFF}
+20b70e57-1c2e-4de9-99e5-69f369006912
+```
+
+#### File paths
+
+```
+c:\Program Files\Microsoft Updates\
 ```
