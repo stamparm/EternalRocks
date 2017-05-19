@@ -149,3 +149,9 @@ fc75410aa8f76154f5ae8fe035b9a13c76f6e132077346101a0d673ed9f3a0dd
 ```
 c:\Program Files\Microsoft Updates\
 ```
+
+#### Scheduled tasks
+
+`ServiceHost` -> `C:\Program Files\Microsoft Updates\svchost.exe`  ` # system start, log on, daily`
+
+`TaskHost` -> `C:\Program Files\Microsoft Updates\taskhost.exe`  ` # system start, log on, daily`
