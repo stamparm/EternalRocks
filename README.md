@@ -121,17 +121,22 @@ Second stage malware `taskhost.exe` (Note: different than one from first stage) 
 
 ## Network indicators
 
-### C&C servers
+### C&C server(s)
 
 * `ubgdgno5eswkhmpy.onion`
 
+### Downloading required .NET components
+
+* `http://api.nuget.org/packages/taskscheduler.2.5.23.nupkg`
+* `http://api.nuget.org/packages/sharpziplib.0.86.0.nupkg`  `# not in all variants`
+
 ![Example C&C communication](https://i.imgur.com/Uyqw5an.png)
 
-## Appendix A
+## Appendix
 
 ### Network traffic capture (PCAP)
 
-* [Windows 7 x64 SP1 Honeypot](https://raw.githubusercontent.com/stamparm/EternalRocks/master/misc/exploitation.pcap)  `# initial infection (2017-05-17)`
+* [Windows 7 x64 SP1 Honeypot](https://raw.githubusercontent.com/stamparm/EternalRocks/master/misc/exploitation.pcap)  `# initial exploitation capture (2017-05-17)`
 
 ### Debug strings
 
