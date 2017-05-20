@@ -93,6 +93,10 @@ Second stage malware `taskhost.exe` (Note: different than one from first stage) 
 
 ## Appendix
 
+### Decompilation of an older sample
+
+* [C# source](https://raw.githubusercontent.com/stamparm/EternalRocks/master/misc/svchost.7z)  `# 1ee894c0b91f3b2f836288c22ebeab44798f222f17c255f557af2260b8c6a32d`
+
 ### Network traffic capture (PCAP)
 
 * [Windows 7 x64 SP1 Honeypot](https://raw.githubusercontent.com/stamparm/EternalRocks/master/misc/exploitation.pcap)  `# initial exploitation capture (2017-05-17)`
