@@ -38,8 +38,9 @@ rule EternalRocks_svchost
         $s2 = "svchost.exe" fullword wide
         $s3 = "ConfusedByAttribute" fullword ascii
         $s4 = "ICSharpCode.SharpZipLib" fullword ascii
+        $s5 = "Microsoft 2017" fullword ascii
     condition:
-        uint16(0) == 0x5a4d and 4 of them
+        uint16(0) == 0x5a4d and all of them
 }
 
 rule EternalRocks_taskhost_final
