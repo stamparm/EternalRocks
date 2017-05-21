@@ -119,6 +119,12 @@ Second stage malware `taskhost.exe` (Note: different than one from first stage) 
 
 * `C:\Users\tmc\Documents\Visual Studio 2015\Projects\WindowsServices\svchost\bin\svchost.pdb`
 
+### Oldest (known) sample
+
+* `ece21c93cebcb78ce93417edbf4c47e150e117a1177f15255fe3fce301a1eada`
+
+![VT](https://i.imgur.com/2QwvpyP.png)
+
 ### Indicators of Compromise (IOC)
 
 #### SHA256
