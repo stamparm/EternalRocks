@@ -101,6 +101,10 @@ Second stage malware `taskhost.exe` (Note: different than one from first stage) 
 
 * [Windows 7 x64 SP1 Honeypot](https://raw.githubusercontent.com/stamparm/EternalRocks/master/misc/exploitation.pcap)  `# initial exploitation capture (2017-05-17)`
 
+### Yara rules
+
+* [EternalRocks.yara](https://raw.githubusercontent.com/stamparm/EternalRocks/master/EternalRocks.yara)
+
 ### Debug strings
 
 * `C:\Program Files (x86)\Microsoft Visual Studio\VB98\VB6.OLB`
