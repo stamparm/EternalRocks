@@ -75,6 +75,7 @@ Second stage malware `taskhost.exe` (Note: different than one from first stage) 
 ### Second stage
 
 * [cf8533849ee5e82023ad7adbdbd6543cb6db596c53048b1a0c00b3643a72db30](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/cf8533849ee5e82023ad7adbdbd6543cb6db596c53048b1a0c00b3643a72db30)  `# taskhost.exe (captured)`
+* [3b4497c7f8c89bf22c984854ac7603573a53b95ed147e80c0f19e549e2b65693](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/3b4497c7f8c89bf22c984854ac7603573a53b95ed147e80c0f19e549e2b65693)  `# taskhost.exe (variant)`
 * [a77c61e86bc69fdc909560bb7a0fa1dd61ee6c86afceb9ea17462a97e7114ab0](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/a77c61e86bc69fdc909560bb7a0fa1dd61ee6c86afceb9ea17462a97e7114ab0)  `# taskhost.exe (variant)`
 * [70ec0e2b6f9ff88b54618a5f7fbd55b383cf62f8e7c3795c25e2f613bfddf45d](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/70ec0e2b6f9ff88b54618a5f7fbd55b383cf62f8e7c3795c25e2f613bfddf45d)  `# shadowbrokers.zip (exploits)`
 
@@ -128,6 +129,7 @@ Second stage malware `taskhost.exe` (Note: different than one from first stage) 
 20240431d6eb6816453651b58b37f53950fcc3f0929813806525c5fd97cdc0e1
 2094d105ec70aa98866a83b38a22614cff906b2cf0a08970ed59887383ee7b70
 23eeb35780faf868a7b17b8e8da364d71bae0e46c1ababddddddecbdbd2c2c64
+3b4497c7f8c89bf22c984854ac7603573a53b95ed147e80c0f19e549e2b65693
 44472436a5b46d19cb34fa0e74924e4efc80dfa2ed491773a2852b03853221a2
 589af04a85dc66ec6b94123142a17cf194decd61f5d79e76183db026010e0d31
 64442cceb7d618e70c62d461cfaafdb8e653b8d98ac4765a6b3d8fd1ea3bce15
