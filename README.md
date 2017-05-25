@@ -8,6 +8,22 @@ First stage malware `UpdateInstaller.exe` (got through remote exploitation with 
 
 Second stage malware `taskhost.exe` (Note: different than one from first stage) (e.g. [sample](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/cf8533849ee5e82023ad7adbdbd6543cb6db596c53048b1a0c00b3643a72db30)) is being downloaded after a predefined period (24h) from `http://ubgdgno5eswkhmpy.onion/updates/download?id=PC` and run. After initial run it drops the exploit pack [shadowbrokers.zip](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/70ec0e2b6f9ff88b54618a5f7fbd55b383cf62f8e7c3795c25e2f613bfddf45d) and unpacks contained directories `payloads/`, `configs/` and `bins/`. After that, starts a random scan of opened 445 (SMB) ports on Internet, while running contained exploits (inside directory `bins/`) and pushing the first stage malware through payloads (inside directory `payloads/`). Also, it expects running Tor process from first stage to get further instructions from C&C.
 
+## Update (2017-05-25)
+
+Author ("`tmc`") suddenly drops the whole campaign after a recent fuzz. C&C page currently holds this moment the following (new) message:
+
+![C&C message](https://i.imgur.com/PU8kY44.png)
+
+After a successful registration, user can find following messages from author himself:
+
+![Message 1](https://i.imgur.com/aXcaKBC.png)
+
+![Message 2](https://i.imgur.com/UZ0lDQP.png)
+
+Also, malware doesn't update any more to the (shadowbrokers exploit pack) second stage, but to the dummy executable [48b1024f599c3184a49c0d66c5600385265b9868d0936134185326e2db0ab441](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/48b1024f599c3184a49c0d66c5600385265b9868d0936134185326e2db0ab441):
+
+![New sample](https://i.imgur.com/LA0wp8I.png)
+
 ## Host Based indicators
 
 ![Dropped files](http://i.imgur.com/LoP210P.png)
