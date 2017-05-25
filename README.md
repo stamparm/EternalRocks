@@ -14,13 +14,13 @@ Author ("`tmc`") suddenly drops the whole campaign after a recent fuzz. C&C page
 
 ![C&C message](https://i.imgur.com/PU8kY44.png)
 
-After a successful registration, user can find following messages from author himself:
+After a successful registration, user can find following messages from malware author ("`tmc`") himself:
 
 ![Message 1](https://i.imgur.com/aXcaKBC.png)
 
 ![Message 2](https://i.imgur.com/UZ0lDQP.png)
 
-Also, malware doesn't update any more to the (shadowbrokers exploit pack) second stage, but to the dummy executable [48b1024f599c3184a49c0d66c5600385265b9868d0936134185326e2db0ab441](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/48b1024f599c3184a49c0d66c5600385265b9868d0936134185326e2db0ab441):
+Also, malware doesn't update any more to the (shadowbrokers exploit pack) second stage, but to the [dummy](https://raw.githubusercontent.com/stamparm/EternalRocks/master/samples/48b1024f599c3184a49c0d66c5600385265b9868d0936134185326e2db0ab441) executable:
 
 ![New sample](https://i.imgur.com/LA0wp8I.png)
 
