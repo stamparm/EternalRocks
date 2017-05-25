@@ -16,7 +16,24 @@ Author ("`tmc`") suddenly drops the whole campaign after a recent fuzz. C&C page
 
 After a successful registration, user can find following messages from malware author ("`tmc`") himself:
 
+```
+Its not ransomware, its not dangerous, it just firewalls 
+the smb port and moves on. I wanted to play some games with 
+them, considering I had visitors, but the news has to much 
+about weaponized doomsday worm eternal rocks payload. much 
+thought to be had... ps: nsa exploits were fun, thanks 
+shadowbrokers!
+```
+
 ![Message 1](https://i.imgur.com/aXcaKBC.png)
+
+```
+btw, all I did, was use the NSA tools for what they were 
+built, I was figuring out how they work, and next thing I 
+knew I had access, so what to do then, I was ehh, I will 
+just firewall the port, thank you for playing, have a nice 
+a day. 
+```
 
 ![Message 2](https://i.imgur.com/UZ0lDQP.png)
 
